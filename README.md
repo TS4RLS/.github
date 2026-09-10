@@ -7,7 +7,8 @@
 GitHub organisation profile for [TS4RLS](https://github.com/TS4RLS).
 
 Website: https://ts4rls.stuxie.dev  
-Repository: https://github.com/TS4RLS/.github
+Repository: https://github.com/TS4RLS/.github  
+License: [GPL-3.0-or-later](LICENSE.md)
 
 ## Contents
 
@@ -18,7 +19,7 @@ Repository: https://github.com/TS4RLS/.github
 
 | Repo | Description |
 |------|-------------|
-| [Engine](https://github.com/TS4RLS/Engine) | The loading-screen generator, GUI, and CLI |
+| [Engine](https://github.com/TS4RLS/Engine) | The loading-screen generator and GUI |
 | [Website](https://github.com/TS4RLS/Website) | Source for ts4rls.stuxie.dev |
 
 ---

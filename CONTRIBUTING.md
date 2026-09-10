@@ -6,7 +6,7 @@
 
 TS4RLS is split across two repos, each with its own `CONTRIBUTING.md`:
 
-- **[Engine](https://github.com/TS4RLS/Engine)** - the loading-screen generator, GUI, and CLI
+- **[Engine](https://github.com/TS4RLS/Engine)** - the loading-screen generator and GUI
 - **[Website](https://github.com/TS4RLS/Website)** - source for ts4rls.stuxie.dev
 
 Open your issue or PR on whichever of those the change actually belongs to.

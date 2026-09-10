@@ -5,9 +5,9 @@
 # TS4RLS — The Sims 4 Random Loading Screen
 
 TS4RLS automatically picks a random image from a folder and installs it as
-your Sims 4 loading screen mod — run it before launching the game and get
-a fresh screen every time. Ships as a single executable with a GUI, a
-text-menu CLI, and a headless mode for unattended/CurseForge use.
+your Sims 4 loading screen mod — run it, then launch the game yourself and
+get a fresh screen every time. Ships as a single executable with a GUI and
+a headless mode for unattended use.
 
 **Website:** https://ts4rls.stuxie.dev
 
@@ -15,7 +15,7 @@ text-menu CLI, and a headless mode for unattended/CurseForge use.
 
 | Repo | Description |
 |------|-------------|
-| [Engine](https://github.com/TS4RLS/Engine) | The loading-screen generator, GUI, and CLI |
+| [Engine](https://github.com/TS4RLS/Engine) | The loading-screen generator and GUI |
 | [Website](https://github.com/TS4RLS/Website) | Source for ts4rls.stuxie.dev |
 
 ---
