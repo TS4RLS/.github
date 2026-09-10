@@ -4,6 +4,12 @@ All notable changes to this repo are documented here. Versioning follows
 [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PATCH`), independent
 of the other TS4RLS repos' own versions.
 
+## [1.0.2] - 2026-09-10
+
+### Changed
+- README/CONTRIBUTING/profile header logo shrunk from `width="500"` to
+  `width="300"`.
+
 ## [1.0.1] - 2026-09-10
 
 ### Changed
