@@ -20,4 +20,6 @@ a headless mode for unattended use.
 
 ---
 
-*Built & Maintained by <img src="https://github.com/StuxieDev.png" height="14" alt="StuxieDev" valign="middle"> [StuxieDev](https://github.com/StuxieDev).*
+*Written & Maintained by <img src="https://github.com/StuxieDev.png" height="14" alt="StuxieDev" valign="middle"> [StuxieDev](https://stuxie.dev).*
+
+*[A StuxieDev Project](https://projects.stuxie.dev)*
